@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chhetri1419
-- 👀 I am intrested in Data scilence and machine learning. 
+- 👀 I am intrested in Data science and machine learning. 
 - 🌱 I’m currently learning Data science. 
 - 💞️ I’m looking to collaborate or internship on Data science. 
 - 📫 You can reach me @ chhetriroshan601@gmail.com
